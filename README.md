@@ -1,4 +1,5 @@
 ## FOAM: Factored One-sided Adam-Moment for Practical and Scalable SOAP
+[![arXiv](https://img.shields.io/badge/arXiv-2611.16905-b31b1b.svg)](https://arxiv.org/abs/2611.16905)
 
 **NeurIPS 2026**
 
